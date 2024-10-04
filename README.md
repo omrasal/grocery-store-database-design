@@ -1,6 +1,7 @@
 **Grocery Store Database Project**
 
 **Overview**
+
 This project demonstrates the design, creation, and testing of a relational database for a grocery store. The database contains tables that store information about items, purchases, sales, and vendors. The goal of this project is to show that the database structure supports accurate retrieval of data using SQL queries, ensuring the database design is functional and complete.
 
 **Files Included**
